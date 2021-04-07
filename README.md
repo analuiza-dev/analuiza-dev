@@ -8,7 +8,6 @@
 - 💼 &nbsp; Working as a Java Developer.
 - 🌱 &nbsp; Learning more about Docker, Spring Boot and Angular.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analuiza-dev&layout=compact&text_color=daf7dc&bg_color=151515)
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
