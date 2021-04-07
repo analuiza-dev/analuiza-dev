@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Software Engineering.
-- 💼 &nbsp; Working as a Java Developer.
+- 💼 &nbsp; Working as a Java/Angular Developer.
 - 🌱 &nbsp; Learning more about Docker, Spring Boot and Angular.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
